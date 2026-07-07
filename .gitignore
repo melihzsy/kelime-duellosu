@@ -1,0 +1,16 @@
+# Node.js / Next.js (Frontend)
+node_modules/
+.next/
+out/
+build/
+.env*.local
+
+# C# / .NET (Backend)
+[Bb]in/
+[Oo]bj/
+appsettings.Development.json
+*.user
+
+# Genel İşletim Sistemi Dosyaları
+.DS_Store
+Thumbs.db
